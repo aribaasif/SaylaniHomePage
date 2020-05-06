@@ -1,0 +1,332 @@
+.doing{
+    background-color: white;
+    padding: 20px 25px 20px 25px;
+    border: 1px solid white;
+    width:300px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    margin: 15px;
+    display:inline-block;
+}
+h3{
+    color: royalblue;
+    font-weight: bolder;
+    text-align: center;
+    margin:40px 0px 20px 0px;
+}
+.seve{
+    cursor: pointer;
+    position: relative;
+    top: 20px;
+    left:110px;
+    bottom: 50 px;
+    width: 70px;
+}
+.seventh{
+     background-color: rgba(0,0,0,0.03);
+     padding: 40px 20px 40px 20px;
+
+}
+.bl{
+    font-weight: bolder;
+    color: royalblue;
+    display: inline;
+    padding: 0px 0px;
+}
+.gr{
+    padding: 0px 0px;
+    display: inline;
+    font-weight: bolder;
+    color: green;
+    font-size: 30px;
+}
+#sev{
+    text-align: center;
+}
+.heading{
+         size: 50px;
+}
+.dash{
+    color:green;
+    font-weight: bolder;
+}
+.logo{
+    widows: 1000px;
+    text-align: center;
+}
+.eighth{
+    background-color: white;
+    padding: 60px 40px 80px 40px;
+}
+#hepa{
+    color: blue;
+    font-weight: bolder;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,0.03);
+    background-color: rgba(0,0,0,0.03);
+    width: 250px;
+    height:40px;
+    padding: 22px 40px 12px 60px;
+    box-shadow: 0px 0px;
+    font-size: large;
+    background-image: url(https://www.saylaniwelfare.com/public_html/images/saylani/icons/Hepatitis.png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: center;
+}
+#hou{
+    color: blue;
+    font-weight: bolder;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,0.03);
+    background-color: rgba(0,0,0,0.03);
+    width: 250px;
+    height:40px;
+    padding: 22px 40px 12px 60px;
+    box-shadow: 0px 0px;
+    font-size: large;
+    background-image: url(https://www.saylaniwelfare.com/public_html/images/saylani/icons/housing.png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: center;
+    
+}
+#itl{
+    color: blue;
+    font-weight: bolder;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,0.03);
+    background-color: rgba(0,0,0,0.03);
+    width: 250px;
+    height:40px;
+    padding: 22px 40px 12px 60px;
+    box-shadow: 0px 0px;
+    font-size: large;
+    background-image: url(https://www.saylaniwelfare.com/public_html/images/saylani/icons/IT.png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: center;
+}
+#thar{
+    color: blue;
+    font-weight: bolder;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,0.03);
+    background-color: rgba(0,0,0,0.03);
+    width: 250px;
+    height:40px;
+    padding: 22px 40px 12px 60px;
+    box-shadow: 0px 0px;
+    font-size: large;
+    background-image: url(https://www.saylaniwelfare.com/public_html/images/saylani/icons/tharparkar.png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: center;
+}
+img{
+    cursor: pointer;
+}
+.projects{
+    width:900px;
+}
+.pr{
+    display: inline-block;
+    margin: 10px 10px;
+}
+#leftside{
+    font-size: 18px;
+    color: black;
+}
+#uevents{
+    padding: 0px 50px 0px 780px;
+    position: relative;
+    bottom:290px;
+    
+}
+.ninth{
+    background-color:#333333;
+    color: white;
+    display: inline-block;
+    width:1200px;
+    height: 350px;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    top: -50px;
+}
+.part1{
+    padding:20px 0px 0px 60px;
+line-height: 1.5em;
+}
+.part2{
+    font-weight: bolder;
+    position: relative;
+    text-align: center;
+    right: 40px;
+    bottom: 290px;
+    size: 20px;
+}
+.part3{
+    width:200px;
+    font-weight: bolder;
+    position: relative;
+    left:750px;
+   bottom:380px;
+    size: 20px;
+}
+.last{
+    position: relative;
+    top: -200px;
+    background-color: blue;
+    color: white;
+    width: 1180px;
+    height: 30px;
+    padding: 5px 0px 20px 20px;
+    overflow-y: hidden;
+
+}
+.sixth{
+    background-color: royalblue;
+    color: white;
+}
+.six{
+    width:250px;
+    display: inline-block;
+    padding: 40px 20px 90px 20px;
+    text-align: center;
+}
+.gre{
+    color: rgb(0, 255, 0);
+    font-weight: bolder;
+    display: inline;;
+}
+.numbers{
+    font-weight: normal;
+    font-size: 52px;
+    padding: 0px 0px;
+}
+.works{
+    font-weight: bolder;
+    display: inline;
+    padding: 0px 0px;
+}
+.fifth{
+    background-color:rgba(0,0,0,0.03); 
+    width:1200px;
+    height:720px;
+}
+#intro{
+    line-height: 1.9;
+    color: #666666;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    margin: 0 0 10px;
+    display: block;
+    padding: 0px 120px 0px 120px;
+}
+.fourth{
+    background-color: royalblue;
+    width: 1200px;
+    height: 30px;
+    padding: 5px 0px 2px 0px;
+}
+.greeny{
+    color: rgb(0, 255, 0);
+}
+.bluey{
+    color: blue;
+}
+.third{
+    width:1200px;
+    height: 500px;
+}
+.second{
+    width: 1200px;
+    height:70px;
+    color:rgba(0,0,0,0.03) ;
+    background-color: rgba(0,0,0,0.03);
+}
+#saylani{
+    width:200px;
+    height: 40px;
+    position: relative;
+    left:30px;
+    top:20px;
+}
+.home{
+    position: relative;
+    left:250px;
+     display: inline-block;
+     text-align: center;
+}
+.hom{
+    border-radius: 25px;
+    width:85px;
+    height: 40px;
+    text-align: center;
+    color: rgb(94, 100, 100);
+    margin: 5px 0px 5px 0px;
+    padding: 5px 5px;
+    box-shadow: none;
+}
+.first{
+    background-color: royalblue;
+    width: 1200px;
+    height: 40px;
+    display: inline-block;
+}
+.don{
+    border: 1px solid #666666;
+    background-color:white;
+    height:30px;
+    color: #666666;
+}
+.millions{
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 10px;
+}
+.donors{
+    position: relative;
+    left: 920px;
+    bottom:34px;
+}
+.icons{
+    position: relative;
+    left:40px;
+    top:10px;
+}
+.backtotop{
+    float: right;
+    margin: 0px 0px;
+}
+.hom:hover{
+    background-color: blue;
+    color: white;
+}
+#home1{
+    background-color:blue ;
+    color: white;
+}
+.gallery1{
+    position: relative;
+    top: -150px;
+    bottom:0px;
+}
+#saylanis{
+    width: 130px;
+    text-align: center;
+    color: rgb(94, 100, 100);
+}
+#futurep{
+    width:120px;
+    text-align:center;
+    color: rgb(94, 100, 100);
+}
+select{
+    background-color:rgba(0,0,0,0.03);
+}
